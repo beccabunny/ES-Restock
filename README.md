@@ -1,2 +1,3 @@
 # ES-Restock
-A visual mod that improves the look of many vanilla human outfits, either greatly detailing the original model or using a completely new one
+A visual mod that improves the look of many vanilla human outfits, either greatly detailing the original model or using a completely new one. Currently including 12 new sprites!
+
