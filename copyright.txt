@@ -3,6 +3,8 @@ Copyright: Tommaso Becca <tommasobecca03@gmail.com>
 License: CC-BY-SA-4.0
 Comment: Derived from work by Michael Zahniser.
 
-Files: images/outfit/fuel?pod*
+Files:
+  images/outfit/fuel?pod*
+  images/outfit/fusion*
 Copyright: Tommaso Becca <tommasobecca03@gmail.com>
 License: CC-BY-SA-4.0
