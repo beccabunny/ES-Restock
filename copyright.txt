@@ -7,5 +7,10 @@ Files:
   images/outfit/fuel?pod*
   images/outfit/fusion*
   images/outfit/ionic?afterburner*
+  images/outfit/tiny?ion*
+  images/outfit/small?ion*
+  images/outfit/medium?ion*
+  images/outfit/large?ion*
+  images/outfit/huge?ion*
 Copyright: Tommaso Becca <tommasobecca03@gmail.com>
 License: CC-BY-SA-4.0
