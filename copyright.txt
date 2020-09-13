@@ -12,5 +12,10 @@ Files:
   images/outfit/medium?ion*
   images/outfit/large?ion*
   images/outfit/huge?ion*
+  images/outfit/tiny?atomic*
+  images/outfit/small?atomic*
+  images/outfit/medium?atomic*
+  images/outfit/large?atomic*
+  images/outfit/huge?atomic*
 Copyright: Tommaso Becca <tommasobecca03@gmail.com>
 License: CC-BY-SA-4.0
