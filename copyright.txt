@@ -17,5 +17,14 @@ Files:
   images/outfit/medium?atomic*
   images/outfit/large?atomic*
   images/outfit/huge?atomic*
+  images/outfit/javelin*
+  images/outfit/javelin?storage*
+  images/outfit/javelin?pod*
+  images/outfit/torpedo*
+  images/outfit/torpedo?launcher*
+  images/outfit/torpedo?storage*
+  images/outfit/typhoon*
+  images/outfit/typhoon?launcher*
+  images/outfit/typhoon?storage*
 Copyright: Tommaso Becca <tommasobecca03@gmail.com>
 License: CC-BY-SA-4.0
