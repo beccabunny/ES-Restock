@@ -26,5 +26,9 @@ Files:
   images/outfit/typhoon*
   images/outfit/typhoon?launcher*
   images/outfit/typhoon?storage*
+  images/outfit/cooling?ducts*
+  images/outfit/liquid?helium*
+  images/outfit/liquid?nitrogen*
+  images/outfit/water?cooling*
 Copyright: Tommaso Becca <tommasobecca03@gmail.com>
 License: CC-BY-SA-4.0
