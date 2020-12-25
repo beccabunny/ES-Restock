@@ -32,5 +32,7 @@ Files:
   images/outfit/water?cooling*
   images/outfit/large?regenerator*
   images/outfit/small?regenerator*
+  images/outfit/cargo?scanner*
+  images/outfit/outfit?scanner*
 Copyright: Tommaso Becca <tommasobecca03@gmail.com>
 License: CC-BY-SA-4.0
