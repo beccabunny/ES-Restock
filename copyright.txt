@@ -34,5 +34,7 @@ Files:
   images/outfit/small?regenerator*
   images/outfit/cargo?scanner*
   images/outfit/outfit?scanner*
+  images/outfit/blue?screwdriver*
+  images/outfit/red?screwdriver*
 Copyright: Tommaso Becca <tommasobecca03@gmail.com>
 License: CC-BY-SA-4.0
