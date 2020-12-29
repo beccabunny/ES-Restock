@@ -38,3 +38,9 @@ Files:
   images/outfit/red?screwdriver*
 Copyright: Tommaso Becca <tommasobecca03@gmail.com>
 License: CC-BY-SA-4.0
+
+Files:
+  images/outfit/proton?turret*
+Copyright: Tommaso Becca <tommasobecca03@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from work by Michael Zahniser and Nate Graham.
